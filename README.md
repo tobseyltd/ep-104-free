@@ -1,4 +1,4 @@
-# EP-103 Free Tutorial Project
+# EP-104 Free Tutorial Project
 
 👉 Live Version: https://tobseyltd.github.io/ep-104-free/
 
