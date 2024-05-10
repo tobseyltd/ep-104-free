@@ -72,7 +72,7 @@ logo-container {
     justify-content: center;
     align-items: end;
 
-    ~ search-container {
+    + search-container {
         padding: 20px;
         display: flex;
         align-items: center;
@@ -118,7 +118,7 @@ logo-container {
                 }
             }
 
-            ~ search-button-section {
+            + search-button-section {
                 padding-top: 18px;
 
                 /* Search Buttons */
