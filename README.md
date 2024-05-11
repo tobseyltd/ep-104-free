@@ -1,6 +1,6 @@
 # EP-104 Free Tutorial Project
 
-👉 Live Version: https://tobseyltd.github.io/ep-104-free/
+👉 Meine Lösung: solution Branch
 
 ---
 
